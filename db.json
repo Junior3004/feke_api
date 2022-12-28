@@ -3,7 +3,8 @@
     {
       "id":1,
       "nome":"camisa",
-      "preco":10.5
+      "preco":10.5,
+      "photo":"https://junioroliveira-dev.com.br/assets/images/slider/banner-06.png"
     },
     {
       "id":2,
