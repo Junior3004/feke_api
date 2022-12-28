@@ -1,0 +1,29 @@
+{
+  "produtos":[
+    {
+      "id":1,
+      "nome":"camisa",
+      "preco":10.5
+    },
+    {
+      "id":2,
+      "nome":"sapato",
+      "preco":50.00
+    },
+    {
+      "id":3,
+      "nome":"bolsa",
+      "preco":100.00
+    },
+    {
+      "id":4,
+      "nome":"relogio",
+      "preco":130.30
+    },
+    {
+      "id":5,
+      "nome":"shrot",
+      "preco":80.5
+    }
+  ]
+}
